@@ -8,9 +8,9 @@ Storyboard scene
 7 - 
 8 - 
 9 - 
-10 - 
-11 - 
-12 - 
+10 - Kevin
+11 - Kevin
+12 - Kevin
 13 - Lynette
 14 - 
 15 - 
