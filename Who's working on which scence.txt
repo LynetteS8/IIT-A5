@@ -3,10 +3,10 @@ Storyboard scene
 2 - Lynette
 3 - Lori
 4 - Lori
-5 - 
+5 - Josh
 6 - Lori
-7 - 
-8 - 
+7 - Josh
+8 - Josh
 9 - Tegan
 10 - Kevin/Tegan
 11 - Kevin
